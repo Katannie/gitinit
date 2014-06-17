@@ -1,3 +1,4 @@
+#blahblah
 #todo: blah
 #more stuff
 for filename in $*
