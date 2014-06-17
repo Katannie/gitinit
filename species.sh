@@ -1,3 +1,4 @@
+#todo: blah
 for filename in $*
 do
 
